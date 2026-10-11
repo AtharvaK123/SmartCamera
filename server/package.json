@@ -1,0 +1,12 @@
+{
+  "name": "smartcam-server",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": { "node": ">=20.12" },
+  "dependencies": {
+    "pg": "^8.13.0"
+  }
+}
